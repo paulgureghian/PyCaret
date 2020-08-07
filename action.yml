@@ -1,4 +1,4 @@
-name: "PyCaret Git Action"
+name: " A PyCaret Git Action"
 description: "A demo of PyCaret"
 author: "Paul Gureghian"
 inputs: 
